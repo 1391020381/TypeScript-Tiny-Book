@@ -1,3 +1,6 @@
 {
-  "search.followSymlinks": false
+  "search.followSymlinks": false,
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true
 }
