@@ -1,0 +1,16 @@
+{
+  "name": "type-challenges",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsnd --respawn --transpile-only src/index.ts",
+    "watch": "tsc --watch",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
